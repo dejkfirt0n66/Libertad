@@ -39,3 +39,5 @@ built with [pegstr](https://pegstr.io) parser generator.
 see [issues](https://github.com/parse-tools/nucler-parse/issues)
 
 MIT
+
+# PR Merge: 2025-10-21 - feature/merge-6097
